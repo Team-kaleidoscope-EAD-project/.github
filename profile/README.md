@@ -21,60 +21,60 @@ Our team of 11 passionate developers worked collaboratively to bring this projec
 <a href="https://www.linkedin.com/in/nethsarawmrc">
   <img src="https://images.weserv.nl/?url=https://github.com/user-attachments/assets/5b6432f2-6bf1-4d4e-a6bf-6f560c9850a7&h=60&w=60&fit=cover&mask=circle&maxage=7d" alt="Ravindu" style="border-radius: 50%; width: 60px; height: 60px;">
 </a>  
-Ravindu Nethsara
+Ravindu
 
 #### **Frontend Team**
 <a href="https://www.linkedin.com/in/dinul-perera/">
   <img src="https://images.weserv.nl/?url=https://github.com/user-attachments/assets/5b6432f2-6bf1-4d4e-a6bf-6f560c9850a7&h=60&w=60&fit=cover&mask=circle&maxage=7d" alt="Dinul" style="border-radius: 50%; width: 60px; height: 60px;">
 </a>  
-Dinul Perera
+Dinul
 
 <a href="https://www.linkedin.com/in/dinithi-wijesooriya-31aa2722a/">
   <img src="https://images.weserv.nl/?url=https://github.com/user-attachments/assets/5b6432f2-6bf1-4d4e-a6bf-6f560c9850a7&h=60&w=60&fit=cover&mask=circle&maxage=7d" alt="Dinul" style="border-radius: 50%; width: 60px; height: 60px;">
 </a>  
-Dinithi Wijesooriya
+Dinithi
 
 <a href="https://www.linkedin.com/in/hirushi-aramandeniya-12493024b/">
   <img src="https://images.weserv.nl/?url=https://github.com/user-attachments/assets/5b6432f2-6bf1-4d4e-a6bf-6f560c9850a7&h=60&w=60&fit=cover&mask=circle&maxage=7d" alt="Dinul" style="border-radius: 50%; width: 60px; height: 60px;">
 </a>  
-Hirushi Aramandeniya
+Hirushi
 
 <a href="https://www.linkedin.com/in/sakunika-karunathilaka-a2a8a1269/">
   <img src="https://images.weserv.nl/?url=https://github.com/user-attachments/assets/5b6432f2-6bf1-4d4e-a6bf-6f560c9850a7&h=60&w=60&fit=cover&mask=circle&maxage=7d" alt="Dinul" style="border-radius: 50%; width: 60px; height: 60px;">
 </a>  
-Sakunika Karunathilaka
+Sakunika
 
 #### **Backend Team**
 <a href="https://www.linkedin.com/in/madusha-weerasinghe/">
   <img src="https://images.weserv.nl/?url=https://github.com/user-attachments/assets/5b6432f2-6bf1-4d4e-a6bf-6f560c9850a7&h=60&w=60&fit=cover&mask=circle&maxage=7d" alt="Dinul" style="border-radius: 50%; width: 60px; height: 60px;">
 </a>  
-Madusha Weerasinghe
+Madusha
 
 <a href="https://www.linkedin.com/in/janith-chathusanka-edirisinghe-591179220/">
   <img src="https://images.weserv.nl/?url=https://github.com/user-attachments/assets/5b6432f2-6bf1-4d4e-a6bf-6f560c9850a7&h=60&w=60&fit=cover&mask=circle&maxage=7d" alt="Dinul" style="border-radius: 50%; width: 60px; height: 60px;">
 </a>  
-Janith Chathusanka
+Janith
 
 <a href="https://www.linkedin.com/in/manojtharindu11/">
   <img src="https://images.weserv.nl/?url=https://github.com/user-attachments/assets/5b6432f2-6bf1-4d4e-a6bf-6f560c9850a7&h=60&w=60&fit=cover&mask=circle&maxage=7d" alt="Dinul" style="border-radius: 50%; width: 60px; height: 60px;">
 </a>  
-Manoj Thilakarathna
+Manoj
 
 <a href="https://www.linkedin.com/in/navodh-fernando-b49102228/">
   <img src="https://images.weserv.nl/?url=https://github.com/user-attachments/assets/5b6432f2-6bf1-4d4e-a6bf-6f560c9850a7&h=60&w=60&fit=cover&mask=circle&maxage=7d" alt="Dinul" style="border-radius: 50%; width: 60px; height: 60px;">
 </a>  
-Navodh Fernando
+Navodh
 
 <a href="https://www.linkedin.com/in/piyumi-amarasingha-mad99/">
   <img src="https://images.weserv.nl/?url=https://github.com/user-attachments/assets/5b6432f2-6bf1-4d4e-a6bf-6f560c9850a7&h=60&w=60&fit=cover&mask=circle&maxage=7d" alt="Dinul" style="border-radius: 50%; width: 60px; height: 60px;">
 </a>  
-Piyumi Amarasingha
+Piyumi
 
 #### **Quality Assurance (QA)**
 <a href="https://www.linkedin.com/in/nipuni-upeksha-ranasinghe-b91191286/">
   <img src="https://images.weserv.nl/?url=https://github.com/user-attachments/assets/5b6432f2-6bf1-4d4e-a6bf-6f560c9850a7&h=60&w=60&fit=cover&mask=circle&maxage=7d" alt="Dinul" style="border-radius: 50%; width: 60px; height: 60px;">
 </a>  
-Nipuni Upeksha
+Nipuni
 
 ---
 
