@@ -13,68 +13,68 @@ The **Kalei Online Fashion Store** is designed to offer users an interactive, fe
 
 ---
 
-<!--## Team Kaleidoscope 👥
+## Team Kaleidoscope 👥
 
 Our team of 11 passionate developers worked collaboratively to bring this project to life:
 
 #### **Project Lead**
-<a href="https://linkedin.com/in/ravindu-profile">
+<a href="https://www.linkedin.com/in/nethsarawmrc">
   <img src="https://images.weserv.nl/?url=https://github.com/user-attachments/assets/5b6432f2-6bf1-4d4e-a6bf-6f560c9850a7&h=70&w=70&fit=cover&mask=circle&maxage=7d" alt="Ravindu" style="border-radius: 50%; width: 70px; height: 70px;">
 </a>  
 Ravindu Nethsara
 
 #### **Frontend Team**
-<a href="https://linkedin.com/in/dinul-profile">
+<a href="https://www.linkedin.com/in/dinul-perera/">
   <img src="https://images.weserv.nl/?url=https://github.com/user-attachments/assets/5b6432f2-6bf1-4d4e-a6bf-6f560c9850a7&h=70&w=70&fit=cover&mask=circle&maxage=7d" alt="Dinul" style="border-radius: 50%; width: 70px; height: 70px;">
 </a>  
 Dinul Perera
 
-<a href="https://linkedin.com/in/dinul-profile">
+<a href="https://www.linkedin.com/in/dinithi-wijesooriya-31aa2722a/">
   <img src="https://images.weserv.nl/?url=https://github.com/user-attachments/assets/5b6432f2-6bf1-4d4e-a6bf-6f560c9850a7&h=70&w=70&fit=cover&mask=circle&maxage=7d" alt="Dinul" style="border-radius: 50%; width: 70px; height: 70px;">
 </a>  
-Dinul Perera
+Dinithi Wijesooriya
 
-<a href="https://linkedin.com/in/dinul-profile">
+<a href="https://www.linkedin.com/in/hirushi-aramandeniya-12493024b/">
   <img src="https://images.weserv.nl/?url=https://github.com/user-attachments/assets/5b6432f2-6bf1-4d4e-a6bf-6f560c9850a7&h=70&w=70&fit=cover&mask=circle&maxage=7d" alt="Dinul" style="border-radius: 50%; width: 70px; height: 70px;">
 </a>  
-Dinul Perera
+Hirushi Aramandeniya
 
-<a href="https://linkedin.com/in/dinul-profile">
+<a href="https://www.linkedin.com/in/sakunika-karunathilaka-a2a8a1269/">
   <img src="https://images.weserv.nl/?url=https://github.com/user-attachments/assets/5b6432f2-6bf1-4d4e-a6bf-6f560c9850a7&h=70&w=70&fit=cover&mask=circle&maxage=7d" alt="Dinul" style="border-radius: 50%; width: 70px; height: 70px;">
 </a>  
-Dinul Perera
+Sakunika Karunathilaka
 
 #### **Backend Team**
-<a href="https://linkedin.com/in/dinul-profile">
+<a href="https://www.linkedin.com/in/madusha-weerasinghe/">
   <img src="https://images.weserv.nl/?url=https://github.com/user-attachments/assets/5b6432f2-6bf1-4d4e-a6bf-6f560c9850a7&h=70&w=70&fit=cover&mask=circle&maxage=7d" alt="Dinul" style="border-radius: 50%; width: 70px; height: 70px;">
 </a>  
-Dinul Perera
+Madusha Weerasinghe
 
-<a href="https://linkedin.com/in/dinul-profile">
+<a href="https://www.linkedin.com/in/janith-chathusanka-edirisinghe-591179220/">
   <img src="https://images.weserv.nl/?url=https://github.com/user-attachments/assets/5b6432f2-6bf1-4d4e-a6bf-6f560c9850a7&h=70&w=70&fit=cover&mask=circle&maxage=7d" alt="Dinul" style="border-radius: 50%; width: 70px; height: 70px;">
 </a>  
-Dinul Perera
+Janith Chathusanka
 
-<a href="https://linkedin.com/in/dinul-profile">
+<a href="https://www.linkedin.com/in/manojtharindu11/">
   <img src="https://images.weserv.nl/?url=https://github.com/user-attachments/assets/5b6432f2-6bf1-4d4e-a6bf-6f560c9850a7&h=70&w=70&fit=cover&mask=circle&maxage=7d" alt="Dinul" style="border-radius: 50%; width: 70px; height: 70px;">
 </a>  
-Dinul Perera
+Manoj Thilakarathna
 
-<a href="https://linkedin.com/in/dinul-profile">
+<a href="https://www.linkedin.com/in/navodh-fernando-b49102228/">
   <img src="https://images.weserv.nl/?url=https://github.com/user-attachments/assets/5b6432f2-6bf1-4d4e-a6bf-6f560c9850a7&h=70&w=70&fit=cover&mask=circle&maxage=7d" alt="Dinul" style="border-radius: 50%; width: 70px; height: 70px;">
 </a>  
-Dinul Perera
+Navodh Fernando
 
-<a href="https://linkedin.com/in/dinul-profile">
+<a href="https://www.linkedin.com/in/piyumi-amarasingha-mad99/">
   <img src="https://images.weserv.nl/?url=https://github.com/user-attachments/assets/5b6432f2-6bf1-4d4e-a6bf-6f560c9850a7&h=70&w=70&fit=cover&mask=circle&maxage=7d" alt="Dinul" style="border-radius: 50%; width: 70px; height: 70px;">
 </a>  
-Dinul Perera
+Piyumi Amarasingha
 
 #### **Quality Assurance (QA)**
-<a href="https://linkedin.com/in/dinul-profile">
+<a href="https://www.linkedin.com/in/nipuni-upeksha-ranasinghe-b91191286/">
   <img src="https://images.weserv.nl/?url=https://github.com/user-attachments/assets/5b6432f2-6bf1-4d4e-a6bf-6f560c9850a7&h=70&w=70&fit=cover&mask=circle&maxage=7d" alt="Dinul" style="border-radius: 50%; width: 70px; height: 70px;">
 </a>  
-Dinul Perera
+Nipuni Upeksha
 
 ---
 
@@ -121,18 +121,21 @@ The project incorporates a robust stack of tools and frameworks:
 - **Payment Integration**: Stripe  
 - **Testing**: JUnit
 
-#### **Frontend**
-<img src="https://images.weserv.nl/?url=https://github.com/user-attachments/assets/5b6432f2-6bf1-4d4e-a6bf-6f560c9850a7&h=70&fit=cover&maxage=7d"> <a href="https://linkedin.com/in/dinul-profile"> <img src="https://images.weserv.nl/?url=https://github.com/user-attachments/assets/5b6432f2-6bf1-4d4e-a6bf-6f560c9850a7&h=70&w=70&fit=cover&mask=circle&maxage=7d" alt="Dinul" style="border-radius: 50%; width: 70px; height: 70px;"> </a> **Next.js** <a href="https://linkedin.com/in/dinul-profile"> <img src="https://images.weserv.nl/?url=https://github.com/user-attachments/assets/5b6432f2-6bf1-4d4e-a6bf-6f560c9850a7&h=70&w=70&fit=cover&mask=circle&maxage=7d" alt="Dinul" style="border-radius: 50%; width: 70px; height: 70px;"> </a> **Tailwind CSS** <a href="https://linkedin.com/in/dinul-profile"> <img src="https://images.weserv.nl/?url=https://github.com/user-attachments/assets/5b6432f2-6bf1-4d4e-a6bf-6f560c9850a7&h=70&w=70&fit=cover&mask=circle&maxage=7d" alt="Dinul" style="border-radius: 50%; width: 70px; height: 70px;"> </a> **shadcn/ui**
-Backend
-<a href="https://linkedin.com/in/dinul-profile"> <img src="https://images.weserv.nl/?url=https://github.com/user-attachments/assets/5b6432f2-6bf1-4d4e-a6bf-6f560c9850a7&h=70&w=70&fit=cover&mask=circle&maxage=7d" alt="Dinul" style="border-radius: 50%; width: 70px; height: 70px;"> </a> **Spring Boot** <a href="https://linkedin.com/in/dinul-profile"> <img src="https://images.weserv.nl/?url=https://github.com/user-attachments/assets/5b6432f2-6bf1-4d4e-a6bf-6f560c9850a7&h=70&w=70&fit=cover&mask=circle&maxage=7d" alt="Dinul" style="border-radius: 50%; width: 70px; height: 70px;"> </a> **Spring Cloud** <a href="https://linkedin.com/in/dinul-profile"> <img src="https://images.weserv.nl/?url=https://github.com/user-attachments/assets/5b6432f2-6bf1-4d4e-a6bf-6f560c9850a7&h=70&w=70&fit=cover&mask=circle&maxage=7d" alt="Dinul" style="border-radius: 50%; width: 70px; height: 70px;"> </a> **Keycloak** <a href="https://linkedin.com/in/dinul-profile"> <img src="https://images.weserv.nl/?url=https://github.com/user-attachments/assets/5b6432f2-6bf1-4d4e-a6bf-6f560c9850a7&h=70&w=70&fit=cover&mask=circle&maxage=7d" alt="Dinul" style="border-radius: 50%; width: 70px; height: 70px;"> </a> **Kafka**
-Databases
-<a href="https://linkedin.com/in/dinul-profile"> <img src="https://images.weserv.nl/?url=https://github.com/user-attachments/assets/5b6432f2-6bf1-4d4e-a6bf-6f560c9850a7&h=70&w=70&fit=cover&mask=circle&maxage=7d" alt="Dinul" style="border-radius: 50%; width: 70px; height: 70px;"> </a> **MySQL** <a href="https://linkedin.com/in/dinul-profile"> <img src="https://images.weserv.nl/?url=https://github.com/user-attachments/assets/5b6432f2-6bf1-4d4e-a6bf-6f560c9850a7&h=70&w=70&fit=cover&mask=circle&maxage=7d" alt="Dinul" style="border-radius: 50%; width: 70px; height: 70px;"> </a> **MongoDB**
-Deployment & Storage
-<a href="https://linkedin.com/in/dinul-profile"> <img src="https://images.weserv.nl/?url=https://github.com/user-attachments/assets/5b6432f2-6bf1-4d4e-a6bf-6f560c9850a7&h=70&w=70&fit=cover&mask=circle&maxage=7d" alt="Dinul" style="border-radius: 50%; width: 70px; height: 70px;"> </a> **Docker** <a href="https://linkedin.com/in/dinul-profile"> <img src="https://images.weserv.nl/?url=https://github.com/user-attachments/assets/5b6432f2-6bf1-4d4e-a6bf-6f560c9850a7&h=70&w=70&fit=cover&mask=circle&maxage=7d" alt="Dinul" style="border-radius: 50%; width: 70px; height: 70px;"> </a> **Amazon S3**
-Payment Integration
-<a href="https://linkedin.com/in/dinul-profile"> <img src="https://images.weserv.nl/?url=https://github.com/user-attachments/assets/5b6432f2-6bf1-4d4e-a6bf-6f560c9850a7&h=70&w=70&fit=cover&mask=circle&maxage=7d" alt="Dinul" style="border-radius: 50%; width: 70px; height: 70px;"> </a> **Stripe**
-Testing
-<a href="https://linkedin.com/in/dinul-profile"> <img src="https://images.weserv.nl/?url=https://github.com/user-attachments/assets/5b6432f2-6bf1-4d4e-a6bf-6f560c9850a7&h=70&w=70&fit=cover&mask=circle&maxage=7d" alt="Dinul" style="border-radius: 50%; width: 70px; height: 70px;"> </a> **JUnit**
+<img src="https://github.com/user-attachments/assets/b15a2329-d077-4a63-87c6-209272ae2328" width="200" />
+<img src="https://github.com/user-attachments/assets/e5f1070e-2c21-4d93-8816-58b9c6b38c59" width="200" />
+<img src="https://github.com/user-attachments/assets/1338543e-aae9-48d9-97be-4e150d1369e4" width="200" />
+<img src="https://github.com/user-attachments/assets/c58bcf41-7563-4316-94b9-cb4cd4271a7a" width="200" />
+<img src="https://github.com/user-attachments/assets/81125efb-9a99-4254-8b6f-a8c6551e79c3" width="200" />
+<img src="https://github.com/user-attachments/assets/3144f164-edba-45b5-885a-247521cec22f" width="200" />
+<img src="https://github.com/user-attachments/assets/c9ac87ca-6530-4cd1-8210-53df496455ad" width="200" />
+<img src="https://github.com/user-attachments/assets/713279bc-ab0a-48a0-9dd3-e19889885a9c" width="200" />
+<img src="https://github.com/user-attachments/assets/3460de50-0fb7-4e99-86e7-3f476fe99059" width="200" />
+<img src="https://github.com/user-attachments/assets/350e501c-5a6c-41ee-bb92-150969c393b7" width="200" />
+<img src="https://github.com/user-attachments/assets/681ea2a7-5db5-4d97-a521-074ef6594b46" width="200" />
+<img src="https://github.com/user-attachments/assets/8e4565f9-7b62-4443-aee4-75c350f58a25" width="200" />
+<img src="https://github.com/user-attachments/assets/528861f5-f442-4055-a67d-6d817d6b0065" width="200" />
+<img src="https://github.com/user-attachments/assets/44ae3f35-6032-4eb6-8bd6-bc1881230771" width="200" />
+
 ---
 
 ## How to Contribute
