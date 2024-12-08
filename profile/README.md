@@ -2,6 +2,8 @@
 
 Welcome to **Kalei Online Fashion Store**, an innovative online shopping platform developed by **Team Kaleidoscope**. This project leverages modern technologies and a microservice architecture to deliver a seamless experience for customers and administrators.
 
+![Cover image](https://github.com/user-attachments/assets/1c2e68b2-b5b4-4c73-bd63-972cf37f0413)
+
 ## About the Project
 
 The **Kalei Online Fashion Store** is designed to offer users an interactive, feature-rich platform for purchasing clothing. It ensures efficient administrative management while providing customers with an intuitive shopping experience.
@@ -19,60 +21,60 @@ Our team of 11 passionate developers worked collaboratively to bring this projec
 
 #### **Project Lead**
 <a href="https://www.linkedin.com/in/nethsarawmrc">
-  <img src="https://images.weserv.nl/?url=https://github.com/user-attachments/assets/5b6432f2-6bf1-4d4e-a6bf-6f560c9850a7&h=60&w=60&fit=cover&mask=circle&maxage=7d" alt="Ravindu" style="border-radius: 50%; width: 60px; height: 60px;">
+  <img src="https://images.weserv.nl/?url=https://github.com/user-attachments/assets/3581d7fe-d622-4664-96dd-828b87d9f690&h=60&w=60&fit=cover&mask=circle&maxage=7d" alt="Ravindu" style="border-radius: 50%; width: 60px; height: 60px;">
 </a>  
 Ravindu
 
 #### **Frontend Team**
 <a href="https://www.linkedin.com/in/dinul-perera/">
-  <img src="https://images.weserv.nl/?url=https://github.com/user-attachments/assets/5b6432f2-6bf1-4d4e-a6bf-6f560c9850a7&h=60&w=60&fit=cover&mask=circle&maxage=7d" alt="Dinul" style="border-radius: 50%; width: 60px; height: 60px;">
+  <img src="https://images.weserv.nl/?url=https://github.com/user-attachments/assets/e0b1cff4-2353-4b05-8fc3-eab28eefe763&h=60&w=60&fit=cover&mask=circle&maxage=7d" alt="Dinul" style="border-radius: 50%; width: 60px; height: 60px;">
 </a>  
 Dinul
 
 <a href="https://www.linkedin.com/in/dinithi-wijesooriya-31aa2722a/">
-  <img src="https://images.weserv.nl/?url=https://github.com/user-attachments/assets/5b6432f2-6bf1-4d4e-a6bf-6f560c9850a7&h=60&w=60&fit=cover&mask=circle&maxage=7d" alt="Dinul" style="border-radius: 50%; width: 60px; height: 60px;">
+  <img src="https://images.weserv.nl/?url=https://github.com/user-attachments/assets/f2325596-5ade-4294-bf23-1fee5eb0c307&h=60&w=60&fit=cover&mask=circle&maxage=7d" alt="Dinithi" style="border-radius: 50%; width: 60px; height: 60px;">
 </a>  
 Dinithi
 
 <a href="https://www.linkedin.com/in/hirushi-aramandeniya-12493024b/">
-  <img src="https://images.weserv.nl/?url=https://github.com/user-attachments/assets/5b6432f2-6bf1-4d4e-a6bf-6f560c9850a7&h=60&w=60&fit=cover&mask=circle&maxage=7d" alt="Dinul" style="border-radius: 50%; width: 60px; height: 60px;">
+  <img src="https://images.weserv.nl/?url=https://github.com/user-attachments/assets/5d3cdc8e-7a18-4101-b9be-79cea8d9dde4&h=60&w=60&fit=cover&mask=circle&maxage=7d" alt="Hirushi" style="border-radius: 50%; width: 60px; height: 60px;">
 </a>  
 Hirushi
 
 <a href="https://www.linkedin.com/in/sakunika-karunathilaka-a2a8a1269/">
-  <img src="https://images.weserv.nl/?url=https://github.com/user-attachments/assets/5b6432f2-6bf1-4d4e-a6bf-6f560c9850a7&h=60&w=60&fit=cover&mask=circle&maxage=7d" alt="Dinul" style="border-radius: 50%; width: 60px; height: 60px;">
+  <img src="https://images.weserv.nl/?url=https://github.com/user-attachments/assets/5c3d88c1-fa15-4e27-a7bf-67106ba4cf8d&h=60&w=60&fit=cover&mask=circle&maxage=7d" alt="Sakunika" style="border-radius: 50%; width: 60px; height: 60px;">
 </a>  
 Sakunika
 
 #### **Backend Team**
 <a href="https://www.linkedin.com/in/madusha-weerasinghe/">
-  <img src="https://images.weserv.nl/?url=https://github.com/user-attachments/assets/5b6432f2-6bf1-4d4e-a6bf-6f560c9850a7&h=60&w=60&fit=cover&mask=circle&maxage=7d" alt="Dinul" style="border-radius: 50%; width: 60px; height: 60px;">
+  <img src="https://images.weserv.nl/?url=https://github.com/user-attachments/assets/760203dd-ed07-49bc-8f02-623c7900bb59&h=60&w=60&fit=cover&mask=circle&maxage=7d" alt="Madusha" style="border-radius: 50%; width: 60px; height: 60px;">
 </a>  
 Madusha
 
 <a href="https://www.linkedin.com/in/janith-chathusanka-edirisinghe-591179220/">
-  <img src="https://images.weserv.nl/?url=https://github.com/user-attachments/assets/5b6432f2-6bf1-4d4e-a6bf-6f560c9850a7&h=60&w=60&fit=cover&mask=circle&maxage=7d" alt="Dinul" style="border-radius: 50%; width: 60px; height: 60px;">
+  <img src="https://images.weserv.nl/?url=https://github.com/user-attachments/assets/d7613d21-1643-4b86-bd60-47a22e50aa98&h=60&w=60&fit=cover&mask=circle&maxage=7d" alt="Janith" style="border-radius: 50%; width: 60px; height: 60px;">
 </a>  
 Janith
 
 <a href="https://www.linkedin.com/in/manojtharindu11/">
-  <img src="https://images.weserv.nl/?url=https://github.com/user-attachments/assets/5b6432f2-6bf1-4d4e-a6bf-6f560c9850a7&h=60&w=60&fit=cover&mask=circle&maxage=7d" alt="Dinul" style="border-radius: 50%; width: 60px; height: 60px;">
+  <img src="https://images.weserv.nl/?url=https://github.com/user-attachments/assets/5b6432f2-6bf1-4d4e-a6bf-6f560c9850a7&h=60&w=60&fit=cover&mask=circle&maxage=7d" alt="Manoj" style="border-radius: 50%; width: 60px; height: 60px;">
 </a>  
 Manoj
 
 <a href="https://www.linkedin.com/in/navodh-fernando-b49102228/">
-  <img src="https://images.weserv.nl/?url=https://github.com/user-attachments/assets/5b6432f2-6bf1-4d4e-a6bf-6f560c9850a7&h=60&w=60&fit=cover&mask=circle&maxage=7d" alt="Dinul" style="border-radius: 50%; width: 60px; height: 60px;">
+  <img src="https://images.weserv.nl/?url=https://github.com/user-attachments/assets/af606b7d-073a-4d9e-ab24-a929fdebbd28&h=60&w=60&fit=cover&mask=circle&maxage=7d" alt="Navod" style="border-radius: 50%; width: 60px; height: 60px;">
 </a>  
 Navodh
 
 <a href="https://www.linkedin.com/in/piyumi-amarasingha-mad99/">
-  <img src="https://images.weserv.nl/?url=https://github.com/user-attachments/assets/5b6432f2-6bf1-4d4e-a6bf-6f560c9850a7&h=60&w=60&fit=cover&mask=circle&maxage=7d" alt="Dinul" style="border-radius: 50%; width: 60px; height: 60px;">
+  <img src="https://images.weserv.nl/?url=https://github.com/user-attachments/assets/3368aadc-ac76-49cc-9669-b70e90d6ed34&h=60&w=60&fit=cover&mask=circle&maxage=7d" alt="Piyumi" style="border-radius: 50%; width: 60px; height: 60px;">
 </a>  
 Piyumi
 
 #### **Quality Assurance (QA)**
 <a href="https://www.linkedin.com/in/nipuni-upeksha-ranasinghe-b91191286/">
-  <img src="https://images.weserv.nl/?url=https://github.com/user-attachments/assets/5b6432f2-6bf1-4d4e-a6bf-6f560c9850a7&h=60&w=60&fit=cover&mask=circle&maxage=7d" alt="Dinul" style="border-radius: 50%; width: 60px; height: 60px;">
+  <img src="https://images.weserv.nl/?url=https://github.com/user-attachments/assets/d07217ff-fbed-45d4-9fb1-4b31cf6d06dc&h=60&w=60&fit=cover&mask=circle&maxage=7d" alt="Nipuni" style="border-radius: 50%; width: 60px; height: 60px;">
 </a>  
 Nipuni
 
@@ -106,7 +108,8 @@ The project uses a **microservice architecture** designed for flexibility, secur
 - **Extensibility**: New services can be integrated without impacting existing functionality.
 
 ### **Architecture Diagram**:
-*(Include a visually appealing diagram here)*
+<!--*(Include a visually appealing diagram here)*-->
+![Architecture diagram](https://github.com/user-attachments/assets/02d1bf6b-1804-4dfd-ab02-2815e478bb5c)
 
 ---
 
